@@ -35,18 +35,6 @@ The Artist CMS Platform is a **custom-built content management and e-commerce so
 ---
 
 ## **Screenshots**  
-*(Insert key UI screenshots — dashboard, analytics, store, and media manager)*  
-
----
-
-## **Live Demo**  
-[**Visit The Cave – Artist CMS**](https://enterthecave.netlify.app)  
-
----
-
-> **Case Study Purpose:** This case study showcases the architecture, features, and design of the Artist CMS Platform. The full source code is kept private to protect client confidentiality but can be reviewed upon request during the interview process.
-
-## Screenshots  
 
 **Dashboard Overview**  
 The central hub for managing releases, media, analytics, and store operations.  
@@ -65,4 +53,13 @@ Upload and schedule audio, visuals, and behind-the-scenes content with metadata 
 **Responsive Design**  
 Optimized for both desktop and mobile views.  
 ![Mobile Store](assets/mobile-store.png)  
-![Mobile Analytics](assets/mobile-analytics.png) 
+![Mobile Analytics](assets/mobile-analytics.png)  
+
+---
+
+## **Live Demo**  
+[**Visit The Cave – Artist CMS**](https://enterthecave.netlify.app)  
+
+---
+
+> **Case Study Purpose:** This case study showcases the architecture, features, and design of the Artist CMS Platform. The full source code is kept private to protect client confidentiality but can be reviewed upon request during the interview process.
