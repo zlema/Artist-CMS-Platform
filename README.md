@@ -45,3 +45,24 @@ The Artist CMS Platform is a **custom-built content management and e-commerce so
 ---
 
 > **Case Study Purpose:** This case study showcases the architecture, features, and design of the Artist CMS Platform. The full source code is kept private to protect client confidentiality but can be reviewed upon request during the interview process.
+
+## Screenshots  
+
+**Dashboard Overview**  
+The central hub for managing releases, media, analytics, and store operations.  
+![Dashboard](assets/dashboard.png)  
+
+**Feature Highlights**  
+
+| Release Calendar | Analytics Dashboard | E-Commerce Store |
+|------------------|---------------------|------------------|
+| ![Calendar](assets/calendar.png) | ![Analytics](assets/analytics.png) | ![Store](assets/store.png) |
+
+**Admin Media Upload**  
+Upload and schedule audio, visuals, and behind-the-scenes content with metadata tagging.  
+![Upload Panel](assets/upload.png)  
+
+**Responsive Design**  
+Optimized for both desktop and mobile views.  
+![Mobile Store](assets/mobile-store.png)  
+![Mobile Analytics](assets/mobile-analytics.png) 
