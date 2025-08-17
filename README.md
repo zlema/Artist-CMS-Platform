@@ -44,11 +44,16 @@ The central hub for managing releases, media, analytics, and store operations.
 
 | Release Calendar | Analytics Dashboard | E-Commerce Store |
 |------------------|---------------------|------------------|
-| ![Calendar](assets/calendar.png) | ![Analytics](assets/analytics.png) | ![Store](assets/store.png) |
+| ![Calendar](assets/campaign.png) | ![Analytics](assets/analytics.png) | ![Store](assets/shop_user.png) |
+
+
+**Geo Analytics** 
+Location based analytic insights, key detail when booking shows and popups
+![Calendar](assets/geo-analytics.png)
 
 **Admin Media Upload**  
 Upload and schedule audio, visuals, and behind-the-scenes content with metadata tagging.  
-![Upload Panel](assets/upload.png)  
+![Upload Panel](assets/release.png)  
 
 **Responsive Design**  
 Optimized for both desktop and mobile views.  
