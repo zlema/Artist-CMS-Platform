@@ -48,7 +48,7 @@ The central hub for managing releases, media, analytics, and store operations.
 
 
 **Geo Analytics** 
-Location based analytic insights, key detail when booking shows and popups
+Location based analytic insights, key detail when booking shows and popups.
 ![Calendar](assets/geo-analytics.png)
 
 **Admin Media Upload**  
@@ -59,9 +59,9 @@ Upload and schedule audio, visuals, and behind-the-scenes content with metadata 
 
 **Responsive Design**  
 Optimized for both desktop and mobile views.  
-![Mobile Homepage](assets/mobile_home.png)  
-![Mobile Member Page](assets/mobile_member.png)  
-![Mobile Shop Page](assets/mobile_shop.png)  
+![Mobile Homepage](assets/mobile_home.PNG)  
+![Mobile Member Page](assets/mobile_member.PNG)  
+![Mobile Shop Page](assets/mobile_shop.PNG)  
 
 ---
 
