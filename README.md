@@ -38,13 +38,13 @@ The Artist CMS Platform is a **custom-built content management and e-commerce so
 
 **Dashboard Overview**  
 The central hub for managing releases, media, analytics, and store operations.  
-![Dashboard](assets/dashboard.png)  
+![Dashboard](assets/campaign.png)  
 
 **Feature Highlights**  
 
 | Release Calendar | Analytics Dashboard | E-Commerce Store |
 |------------------|---------------------|------------------|
-| ![Calendar](assets/campaign.png) | ![Analytics](assets/analytics.png) | ![Store](assets/shop_user.png) |
+| ![Calendar](assets/release.png) | ![Analytics](assets/analytics.png) | ![Store](assets/shop_user.png) |
 
 
 **Geo Analytics** 
@@ -52,13 +52,16 @@ Location based analytic insights, key detail when booking shows and popups
 ![Calendar](assets/geo-analytics.png)
 
 **Admin Media Upload**  
-Upload and schedule audio, visuals, and behind-the-scenes content with metadata tagging.  
-![Upload Panel](assets/release.png)  
+Upload and schedule audio, visuals, and behind-the-scenes content with metadata tagging. Same infra for shop.  
+| Release Upload | Store Upload | 
+|----------------|--------------|
+| ![Release Upload Panel](assets/release-upload.png) | ![Shop Upload Panel](assets/shop.png)
 
 **Responsive Design**  
 Optimized for both desktop and mobile views.  
-![Mobile Store](assets/mobile-store.png)  
-![Mobile Analytics](assets/mobile-analytics.png)  
+![Mobile Homepage](assets/mobile_home.png)  
+![Mobile Member Page](assets/mobile_member.png)  
+![Mobile Shop Page](assets/mobile_shop.png)  
 
 ---
 
