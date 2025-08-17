@@ -47,7 +47,8 @@ The central hub for managing releases, media, analytics, and store operations.
 | ![Calendar](assets/release.png) | ![Analytics](assets/analytics.png) | ![Store](assets/shop_user.png) |
 
 
-**Geo Analytics** 
+**Geo Analytics**
+
 Location based analytic insights, key detail when booking shows and popups.
 ![Calendar](assets/geo-analytics.png)
 
@@ -59,9 +60,9 @@ Upload and schedule audio, visuals, and behind-the-scenes content with metadata 
 
 **Responsive Design**  
 Optimized for both desktop and mobile views.  
-![Mobile Homepage](assets/mobile_home.PNG)  
-![Mobile Member Page](assets/mobile_member.PNG)  
-![Mobile Shop Page](assets/mobile_shop.PNG)  
+| Mobile Homepage | Mobile Member Page | Mobile Shop |
+|-----------------|---------------------|------------|
+| ![Mobile Homepage](assets/mobile_home.PNG) | ![Mobile Member Page](assets/mobile_member.PNG) | ![Mobile Shop Page](assets/mobile_shop.PNG)  
 
 ---
 
